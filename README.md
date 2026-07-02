@@ -149,3 +149,22 @@ Compare the highest-performing country with a user-selected country to evaluate 
 This page enables business users to benchmark regional performance by comparing a selected country against the highest revenue-generating market. It highlights performance gaps, market share differences, category-level revenue contribution, and monthly sales trends, helping stakeholders identify growth opportunities and regional strengths.
 
 ---
+
+### 📊 Market Benchmark
+
+#### Objective
+
+Benchmark a selected country against all markets to evaluate revenue performance, market share, and competitive position.
+
+#### Highlights
+
+- Dynamic Country Selector
+- Revenue Benchmark Analysis
+- Revenue Difference vs Selected Country
+- Revenue Share Analysis
+- Market Position (Ranking)
+- Year-based Performance Comparison
+
+#### Business Value
+
+This page enables business users to benchmark any selected market against all available countries, providing deeper insight into competitive positioning, revenue contribution, and market performance.
